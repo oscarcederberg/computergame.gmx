@@ -1,0 +1,17 @@
+{
+    "test.file": {
+        "name": "test.file",
+        "type": "file",
+        "text": "aaaaa"
+    },
+    "test1.file": {
+        "name": "test1.file",
+        "type": "file",
+        "text": "aaaaa"
+    },
+    "test11.file": {
+        "name": "test11.file",
+        "type": "file",
+        "text": "aaaaa"
+    }
+}
